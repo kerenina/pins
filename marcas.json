@@ -101,6 +101,24 @@
             "longitud": -99.176196,
             "titulo": "instituto de geologia",
             "subtitulo": "investigacion"
+        },
+        {
+            "latitud": 19.332101,
+            "longitud": -99.188202,
+            "titulo": "Rectoría",
+            "subtitulo": "UNAM"
+        },
+        {
+            "latitud": 19.326066,
+            "longitud": -99.177827,
+            "titulo": "Instituto de astronomia",
+            "subtitulo": "investigacion"
+        },
+        {
+            "latitud": 19.324799,
+            "longitud": -99.177047,
+            "titulo": "Instituto de Física",
+            "subtitulo": "investigacion"
         }
         
     ]
