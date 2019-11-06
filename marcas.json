@@ -61,10 +61,28 @@
     "subtitulo":"Facultad"
     },
         {
-            "latitud": 19.33,
-            "longitud": -99.1921,
+            "latitud": 19.331918,
+            "longitud": -99.192168,
             "titulo": "estadio",
             "subtitulo": "deportes"
+        },
+        {
+            "latitud": 19.324118,
+            "longitud": -99.180119,
+            "titulo": "Ciencias",
+            "subtitulo": "Facultad"
+        },
+        {
+            "latitud": 19.334252,
+            "longitud": -99.184122,
+            "titulo": "Centro de estudios china-mexico",
+            "subtitulo": "Socioeconomia"
+        },
+        {
+            "latitud": 19.334314,
+            "longitud": -99.181598,
+            "titulo": "Odontologia"
+            "subtitulo": "Facultad"
         }
     ]
 }
