@@ -83,7 +83,25 @@
             "longitud": -99.181598,
             "titulo": "Odontologia",
             "subtitulo": "fac"
-          
+        },
+        {
+            "latitud": 19.330915,
+            "longitud": -99.177753,
+            "titulo": "Museo de anatomia patologica",
+            "subtitulo": "museo"
+        },
+        {
+            "latitud": 19.328727,
+            "longitud": -99.177388,
+            "titulo": "museo de morfologia",
+            "subtitulo": "museo"
+        },
+        {
+            "latitud": 19.327762,
+            "longitud": -99.176196,
+            "titulo": "instituto de geologia",
+            "subtitulo": "investigacion"
         }
+        
     ]
 }
