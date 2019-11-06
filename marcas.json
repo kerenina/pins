@@ -7,16 +7,16 @@
     "subtitulo": "recreativo"
     },
     {
-    "latitud":
-    "longitud":
-    "titulo":
-    "subtitulo":
+    "latitud":19.59069,
+    "longitud":-99.246636,
+    "titulo":"Estadio Olimpico",
+    "subtitulo": "Deportes"
     },
     {
-    "latitud":
-    "longitud":
-    "titulo":
-    "subtitulo":
+    "latitud":19.329502,
+    "longitud":-99.177303,
+    "titulo":"Veterinaria",
+    "subtitulo":"Facultad"
     },
     {
     "latitud":
@@ -122,4 +122,3 @@
     }
     ]
 }
-
