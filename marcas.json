@@ -59,6 +59,12 @@
     "longitud":-99.178017,
     "titulo":"Politicas y Sociales",
     "subtitulo":"Facultad"
-    }
+    },
+        {
+            "latitud": 19.33,
+            "longitud": -99.1921,
+            "titulo": "estadio",
+            "subtitulo": "deportes"
+        }
     ]
 }
